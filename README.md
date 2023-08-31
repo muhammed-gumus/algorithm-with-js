@@ -22,7 +22,7 @@ My goal here is to develop together by exchanging ideas with every developer who
 ### Step 4: Don't be upset if you can't solve it. Open the solutions here and try to understand what has been done
 <img width="1470" alt="Ekran Resmi 2023-09-01 02 11 49" src="https://github.com/muhammed-gumus/algorithm-with-js/assets/86381278/01f5d20f-f5e0-414c-a369-a39fe8825cf9">
 
-### Step 5: Do not hesitate to ask for help on the campus-question-answer channel on matters you do not understand.
+### Step 5: Do not hesitate to ask for help on the kampus-soru-cevap channel on matters you do not understand.
 <img width="1156" alt="Ekran Resmi 2023-09-01 02 38 57" src="https://github.com/muhammed-gumus/algorithm-with-js/assets/86381278/af17515c-29c7-46f9-aeb7-72fd64b4a190">
 
 
