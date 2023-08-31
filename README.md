@@ -4,7 +4,7 @@ This repository consists of Javascript solutions to LeetCode Algorithm questions
 
 My goal here is to develop together by exchanging ideas with every developer who is open to development. For this purpose, we broadcast on the kamp.us discord server whenever we find time, and we solve LeetCode algorithms together with the participants. We share the algorithms we solved in this repository.
 
-> To join our Discord server 👉🏼 https://discord.gg/PmKy6DrJ
+> To join our Discord server 👉🏼 https://discord.gg/kampus
 
 
 ## How to use
